@@ -1,0 +1,7 @@
+I:\2021DOC\MyProject\Project\WpfDemo\CSToothpick\bin\Debug\CSToothpick.exe.config
+I:\2021DOC\MyProject\Project\WpfDemo\CSToothpick\bin\Debug\CSToothpick.exe
+I:\2021DOC\MyProject\Project\WpfDemo\CSToothpick\bin\Debug\CSToothpick.pdb
+I:\2021DOC\MyProject\Project\WpfDemo\CSToothpick\obj\Debug\CSToothpick.csproj.AssemblyReference.cache
+I:\2021DOC\MyProject\Project\WpfDemo\CSToothpick\obj\Debug\CSToothpick.csproj.CoreCompileInputs.cache
+I:\2021DOC\MyProject\Project\WpfDemo\CSToothpick\obj\Debug\CSToothpick.exe
+I:\2021DOC\MyProject\Project\WpfDemo\CSToothpick\obj\Debug\CSToothpick.pdb
