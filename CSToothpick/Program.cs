@@ -1,8 +1,4 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace CSToothpick
 {
@@ -12,7 +8,7 @@ namespace CSToothpick
         {
             int[] pieces = { 3, 5, 7 };
             int n = pieces.Length;
-            PlayGame(pieces, TurnStatus.humanSecond);
+            PlayGame(pieces, TurnStatus.humanOne);
             Console.ReadKey();
         }
         /// <summary>

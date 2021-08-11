@@ -5,3 +5,9 @@ I:\2021DOC\MyProject\Project\WpfDemo\CSToothpick\obj\Debug\CSToothpick.csproj.As
 I:\2021DOC\MyProject\Project\WpfDemo\CSToothpick\obj\Debug\CSToothpick.csproj.CoreCompileInputs.cache
 I:\2021DOC\MyProject\Project\WpfDemo\CSToothpick\obj\Debug\CSToothpick.exe
 I:\2021DOC\MyProject\Project\WpfDemo\CSToothpick\obj\Debug\CSToothpick.pdb
+D:\Code\toothpick\CSToothpick\bin\Debug\CSToothpick.exe.config
+D:\Code\toothpick\CSToothpick\bin\Debug\CSToothpick.exe
+D:\Code\toothpick\CSToothpick\bin\Debug\CSToothpick.pdb
+D:\Code\toothpick\CSToothpick\obj\Debug\CSToothpick.csproj.CoreCompileInputs.cache
+D:\Code\toothpick\CSToothpick\obj\Debug\CSToothpick.exe
+D:\Code\toothpick\CSToothpick\obj\Debug\CSToothpick.pdb
